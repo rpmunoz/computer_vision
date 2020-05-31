@@ -1,3 +1,7 @@
+datasets
+notebooks/logs/
+.DS_store
+
 ### Python
 
 # Byte-compiled / optimized / DLL files
