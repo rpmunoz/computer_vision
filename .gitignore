@@ -1,6 +1,6 @@
 datasets
-models
-notebooks/logs/
+saved_models
+notebooks/logs
 .DS_store
 
 ### Python
